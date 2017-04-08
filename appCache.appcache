@@ -7,11 +7,6 @@ https://barkeras.github.io:443/assets/css/font-awesome.min.css
 https://barkeras.github.io:443/assets/css/magnific-popup.min.css
 https://barkeras.github.io:443/assets/css/responsive.min.css
 https://barkeras.github.io:443/assets/css/style.min.css
-
-NETWORK:
-*
-
-https://barkeras.github.io:443/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0
 https://barkeras.github.io:443/assets/images/12813971_10154685210548242_5513268924945657582_n.jpg
 https://barkeras.github.io:443/assets/images/counter-bg.jpg
 https://barkeras.github.io:443/assets/images/hire-bg.jpg
@@ -22,6 +17,13 @@ https://barkeras.github.io:443/assets/images/preloader.gif
 https://barkeras.github.io:443/assets/images/section-divider.png
 https://barkeras.github.io:443/assets/images/sign.png
 https://barkeras.github.io:443/assets/images/video-bg.jpg
+https://barkeras.github.io:443/index.html
+
+NETWORK:
+*
+
+https://barkeras.github.io:443/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0
+
 https://barkeras.github.io:443/assets/js/jquery.countTo.min.js
 https://barkeras.github.io:443/assets/js/jquery.easypiechart.min.js
 https://barkeras.github.io:443/assets/js/jquery.fitvids.min.js
@@ -34,4 +36,3 @@ https://barkeras.github.io:443/assets/js/jquery.sticky.min.js
 https://barkeras.github.io:443/assets/js/scripts.min.js
 https://barkeras.github.io:443/assets/js/smoothscroll.min.js
 https://barkeras.github.io:443/assets/js/wow.min.js
-https://barkeras.github.io:443/index.html
