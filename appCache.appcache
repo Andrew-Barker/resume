@@ -1,9 +1,5 @@
 CACHE MANIFEST
 # Generated: 4/8/2017 5:37:07 PM
-
-
-NETWORK:
-*
 https://barkeras.github.io:443/assets/bootstrap/css/bootstrap.min.css
 https://barkeras.github.io:443/assets/bootstrap/js/bootstrap.min.js
 https://barkeras.github.io:443/assets/css/animate.min.css
@@ -11,6 +7,10 @@ https://barkeras.github.io:443/assets/css/font-awesome.min.css
 https://barkeras.github.io:443/assets/css/magnific-popup.min.css
 https://barkeras.github.io:443/assets/css/responsive.min.css
 https://barkeras.github.io:443/assets/css/style.min.css
+
+NETWORK:
+*
+
 https://barkeras.github.io:443/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0
 https://barkeras.github.io:443/assets/images/12813971_10154685210548242_5513268924945657582_n.jpg
 https://barkeras.github.io:443/assets/images/counter-bg.jpg
