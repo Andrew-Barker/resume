@@ -358,7 +358,7 @@ if(currentMonth < startingMonth){
     // -------------------------------------------------------------
 
     (function () {
-        var myLatlng = new google.maps.LatLng(39.3177916, -84.5655615);
+        var myLatlng = new google.maps.LatLng(39.1005368, -84.5216311);
 
             var styles = [
                 {
@@ -392,7 +392,7 @@ if(currentMonth < startingMonth){
             ];
 
             var mapOptions = {
-                zoom: 16,
+                zoom: 13.5,
                 zoomControl: true,
                 scrollwheel: false,
                 center: myLatlng,
@@ -402,12 +402,12 @@ if(currentMonth < startingMonth){
             }
             var map = new google.maps.Map(document.getElementById('mapCanvas'), mapOptions);
 
-            var marker = new google.maps.Marker({
-                position: myLatlng,
-                map: map,
-                animation: google.maps.Animation.DROP,
-                title: '127.0.0.1'
-            });
+            // var marker = new google.maps.Marker({
+            //     position: myLatlng,
+            //     map: map,
+            //     animation: google.maps.Animation.DROP,
+            //     title: '127.0.0.1'
+            // });
 
             var contentString = '' +
                     '' +
@@ -417,9 +417,9 @@ if(currentMonth < startingMonth){
                 content: contentString
             });
 
-            google.maps.event.addListener(marker, 'click', function () {
-                infowindow.open(map, marker);
-            });
+            // google.maps.event.addListener(marker, 'click', function () {
+            //     infowindow.open(map, marker);
+            // });
 
     }());
 
