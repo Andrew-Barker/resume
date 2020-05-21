@@ -358,7 +358,7 @@ if(currentMonth < startingMonth){
     // -------------------------------------------------------------
 
     (function () {
-        var myLatlng = new google.maps.LatLng(39.1005368, -84.5216311);
+        var myLatlng = new google.maps.LatLng(39.1005368, -84.5116311);
 
             var styles = [
                 {
